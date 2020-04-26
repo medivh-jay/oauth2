@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/oauth2"
+	"github.com/medivh-jay/oauth2"
 	"google.golang.org/appengine"
 )
 
